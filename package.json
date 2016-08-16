@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "Node application that returns JSON of IP and Operating System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lequanghuylc/Request-Header-Parser-Microservice-API.git"
+  },
+  "author": "Le Quang Huy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lequanghuylc/Request-Header-Parser-Microservice-API/issues"
+  },
+  "homepage": "https://github.com/lequanghuylc/Request-Header-Parser-Microservice-API#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request-ip": "^1.2.2"
+  }
+}
